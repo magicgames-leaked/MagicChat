@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/magicgames-leaked/MagicChat
+build-by-default: true
+branches:
+- sex
+projects:
+  MagicChat:
+    path: ""
+...
